@@ -1,4 +1,4 @@
-# Dundee Javascript Directory
+# Dundee JavaScript Directory
 
 A demo app built with [React](https://facebook.github.io/react/) and [Firebase](https://firebase.google.com/docs/). The app allows users to login, using Github
 authentication, then update their social profile links.
