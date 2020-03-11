@@ -1,6 +1,6 @@
-# Bozeman Javascript Directory
+# Dundee Javascript Directory
 
-A demo app built with [React](https://facebook.github.io/react/) and [Firebase](https://firebase.google.com/docs/). The app allows users to login, using github
+A demo app built with [React](https://facebook.github.io/react/) and [Firebase](https://firebase.google.com/docs/). The app allows users to login, using Github
 authentication, then update their social profile links.
 
 This project was built using the [Create React App](https://github.com/facebookincubator/create-react-app) repo.
